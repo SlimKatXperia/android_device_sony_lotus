@@ -1,3 +1,3 @@
-add_lunch_combo full_lotus-eng
-add_lunch_combo full_lotus-userdebug
-add_lunch_combo full_lotus-user
+add_lunch_combo slim_lotus-eng
+add_lunch_combo slim_lotus-userdebug
+
