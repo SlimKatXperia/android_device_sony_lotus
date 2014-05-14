@@ -61,7 +61,7 @@ PRODUCT_COPY_FILES += \
 # Reference: http://developer.android.com/guide/practices/screens_support.html
 # Note: In PRODUCT_AAPT_PREF_CONFIG set the proper one (e.g. hdpi), in PRODUCT_AAPT_CONFIG set the proper one and the previous one (e.g. mdpi)
 PRODUCT_AAPT_PREF_CONFIG := mdpi
-PRODUCT_AAPT_CONFIG := normal mdpi mdpi
+PRODUCT_AAPT_CONFIG := normal mdpi hdpi xhdpi xxhdpi
 
 
 # Android kind of memory
