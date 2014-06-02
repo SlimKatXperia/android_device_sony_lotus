@@ -26,3 +26,6 @@ DEVICE_RESOLUTION := 320x480
 TW_EXTERNAL_STORAGE_PATH := "/external_sd"
 TW_EXTERNAL_STORAGE_MOUNT_POINT := "external_sd"
 TARGET_RECOVERY_FSTAB := device/sony/lotus/config/fstab.st-ericsson
+
+# External apps on SD
+TARGET_EXTERNAL_APPS = sdcard1
