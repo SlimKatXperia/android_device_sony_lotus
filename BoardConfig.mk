@@ -31,4 +31,4 @@ TW_EXTERNAL_STORAGE_MOUNT_POINT := "external_sd"
 TARGET_RECOVERY_FSTAB := device/sony/lotus/config/fstab.st-ericsson
 
 # External apps on SD
-TARGET_EXTERNAL_APPS = sdcard1
+TARGET_EXTERNAL_APPS = sdcard0
